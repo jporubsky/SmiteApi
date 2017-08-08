@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Net.Http;
 using System.Net.Http.Headers;
-using System.Windows;
 
 namespace smallSmiteApp.APIcalls
 {
@@ -12,9 +10,9 @@ namespace smallSmiteApp.APIcalls
         string DevID = "2193";
         string AuthKey = "A94348A93B544511952BAA38CE96CA8B";
         string baseURL = "http://api.smitegame.com/smiteapi.svc/";
-        public SmiteAPI()
+        SmiteAPI()
         {
-                
+            sessionID = baseURL + $"createsessionxml /{ DevID}/{ signature}/{ timestamp}";
         }
 
         public string ApiCall(string urlParameters)
@@ -44,6 +42,11 @@ namespace smallSmiteApp.APIcalls
         {
             string retValue= baseURL + "pingxml";
             return retValue;
+        }
+
+        private string CreateSignature()
+        {
+            return "";
         }
     }
 }
