@@ -1,0 +1,16 @@
+e:\users\you know who\documents\visual studio 2015\Projects\smallSmiteApp\smallSmiteApp\bin\Debug\smallSmiteApp.exe.config
+e:\users\you know who\documents\visual studio 2015\Projects\smallSmiteApp\smallSmiteApp\bin\Debug\smallSmiteApp.exe
+e:\users\you know who\documents\visual studio 2015\Projects\smallSmiteApp\smallSmiteApp\bin\Debug\smallSmiteApp.pdb
+e:\users\you know who\documents\visual studio 2015\Projects\smallSmiteApp\smallSmiteApp\obj\Debug\smallSmiteApp.csprojResolveAssemblyReference.cache
+e:\users\you know who\documents\visual studio 2015\Projects\smallSmiteApp\smallSmiteApp\obj\Debug\MainWindow.g.cs
+e:\users\you know who\documents\visual studio 2015\Projects\smallSmiteApp\smallSmiteApp\obj\Debug\App.g.cs
+e:\users\you know who\documents\visual studio 2015\Projects\smallSmiteApp\smallSmiteApp\obj\Debug\smallSmiteApp_MarkupCompile.cache
+e:\users\you know who\documents\visual studio 2015\Projects\smallSmiteApp\smallSmiteApp\obj\Debug\smallSmiteApp_MarkupCompile.lref
+e:\users\you know who\documents\visual studio 2015\Projects\smallSmiteApp\smallSmiteApp\obj\Debug\MainWindow.baml
+e:\users\you know who\documents\visual studio 2015\Projects\smallSmiteApp\smallSmiteApp\obj\Debug\smallSmiteApp.g.resources
+e:\users\you know who\documents\visual studio 2015\Projects\smallSmiteApp\smallSmiteApp\obj\Debug\smallSmiteApp.Properties.Resources.resources
+e:\users\you know who\documents\visual studio 2015\Projects\smallSmiteApp\smallSmiteApp\obj\Debug\smallSmiteApp.csproj.GenerateResource.Cache
+e:\users\you know who\documents\visual studio 2015\Projects\smallSmiteApp\smallSmiteApp\obj\Debug\smallSmiteApp.exe
+e:\users\you know who\documents\visual studio 2015\Projects\smallSmiteApp\smallSmiteApp\obj\Debug\smallSmiteApp.pdb
+e:\users\you know who\documents\visual studio 2015\Projects\smallSmiteApp\smallSmiteApp\bin\Debug\System.Net.Http.Formatting.dll
+e:\users\you know who\documents\visual studio 2015\Projects\smallSmiteApp\smallSmiteApp\bin\Debug\System.Net.Http.Formatting.xml
