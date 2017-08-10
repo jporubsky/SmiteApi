@@ -17,7 +17,7 @@ namespace smallSmiteApp
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            this.textBlock.Text = sapi.ApiCall(textBox.Text);
+            this.textBlock.Text = sapi.Excecute(textBox.Text);
             
         }
     }
